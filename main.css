@@ -1,0 +1,23 @@
+table tr{
+    border: 1px solid black;
+}
+
+tr td{
+    border: 1px solid black;
+}
+
+table {
+    border: 1px solid black;
+}
+ 
+canvas{
+    background: gray;
+}
+
+#canvas1{
+    background: pink;
+}
+
+#canvas3{
+    background: yellow;
+}
